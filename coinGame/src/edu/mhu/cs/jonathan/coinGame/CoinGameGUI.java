@@ -26,16 +26,16 @@ public class CoinGameGUI {
 	private ButtonGroup radioGuess;
 	private JFrame frame;
 	private CoinGame cg;
-	JLabel result;
-	JLabel totalWins;
-	JLabel totalLosses;
-	JLabel winPercentage;
-	JLabel totalGuesses;
-	JTextField resultField;
-	JTextField totalWinsField;
-	JTextField totalLossField;
-	JTextField winPercentageField;
-	JTextField totalGuessesField;
+	private JLabel result;
+	private JLabel totalWins;
+	private JLabel totalLosses;
+	private JLabel winPercentage;
+	private JLabel totalGuesses;
+	private JTextField resultField;
+	private JTextField totalWinsField;
+	private JTextField totalLossField;
+	private JTextField winPercentageField;
+	private JTextField totalGuessesField;
 	
 	
 	public void go() {

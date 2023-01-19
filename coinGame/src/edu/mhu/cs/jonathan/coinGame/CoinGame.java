@@ -2,11 +2,11 @@ package edu.mhu.cs.jonathan.coinGame;
 
 public class CoinGame {
 
-	int userGuess;
-	int totalGuesses;
-	int totalCorrect;
-	int totalIncorrect;
-	double winLossRatio;
+	private int userGuess;
+	private int totalGuesses;
+	private int totalCorrect;
+	private int totalIncorrect;
+	private double winLossRatio;
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
